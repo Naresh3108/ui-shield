@@ -1,0 +1,5 @@
+
+Browser opened: https://automationexercise.com
+Total products found: 34
+
+Browser closed

@@ -1,0 +1,4 @@
+
+Browser opened: https://automationexercise.com
+
+Browser closed

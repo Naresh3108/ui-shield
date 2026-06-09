@@ -1,0 +1,5 @@
+
+Browser opened: https://automationexercise.com
+Current URL: https://automationexercise.com/
+
+Browser closed

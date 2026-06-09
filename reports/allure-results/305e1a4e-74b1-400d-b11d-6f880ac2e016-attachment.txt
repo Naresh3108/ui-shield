@@ -1,0 +1,6 @@
+
+Browser opened: https://automationexercise.com
+Clicked Signup/Login button
+Login URL: https://automationexercise.com/login
+
+Browser closed

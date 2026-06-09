@@ -1,0 +1,6 @@
+
+Browser opened: https://automationexercise.com
+Searching for: top
+Search results count: 14
+
+Browser closed

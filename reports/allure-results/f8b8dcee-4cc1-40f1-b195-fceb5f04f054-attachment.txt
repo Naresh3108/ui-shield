@@ -1,0 +1,5 @@
+
+Browser opened: https://automationexercise.com
+Clicked Signup/Login button
+
+Browser closed

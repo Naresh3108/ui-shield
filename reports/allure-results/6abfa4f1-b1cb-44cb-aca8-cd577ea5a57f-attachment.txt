@@ -1,0 +1,6 @@
+
+Browser opened: https://automationexercise.com
+Searching for: dress
+Results heading: SEARCHED PRODUCTS
+
+Browser closed

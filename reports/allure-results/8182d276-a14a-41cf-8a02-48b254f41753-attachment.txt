@@ -1,0 +1,8 @@
+
+Browser opened: https://automationexercise.com
+Clicked Signup/Login button
+Logging in with email: wrong@email.com
+Clicked login button
+Login error message found
+
+Browser closed

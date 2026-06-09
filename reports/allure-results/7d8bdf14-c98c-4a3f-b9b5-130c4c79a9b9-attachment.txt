@@ -1,0 +1,5 @@
+
+Browser opened: https://automationexercise.com
+Page loaded in: 4.10 seconds
+
+Browser closed

@@ -1,0 +1,5 @@
+
+Browser opened: https://automationexercise.com
+Page title is: Automation Exercise
+
+Browser closed
